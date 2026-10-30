@@ -48,3 +48,15 @@
 | [**Tower Defense**](https://github.com/restevan3/Tower-Defense) | Caminho de menor dano num tabuleiro, com DFS e backtracking | Python |
 
 Também desenvolvo ferramentas internas, que não estão aqui por serem da empresa: um app Android de modo quiosque para tablets, uma plataforma de controle de acessos e desligamentos de colaboradores e um painel de vagas para o RH.
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/restevan3/restevan3/output/cobrinha-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/restevan3/restevan3/output/cobrinha.svg"/>
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/restevan3/restevan3/output/cobrinha-dark.svg"/>
+</picture>
+
+</div>
