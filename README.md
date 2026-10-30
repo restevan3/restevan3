@@ -2,11 +2,11 @@
 
 # Robert Estevan
 
-**TI no varejo · Desenvolvimento & Infraestrutura**
+**Desenvolvimento · Automação · Infraestrutura**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Problema+de+loja+vira+ferramenta;Da+impressora+do+PDV+ao+app+Android;Python%2C+React+e+Docker+no+dia+a+dia" alt="Problema de loja vira ferramenta"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Se+%C3%A9+repetitivo%2C+vira+c%C3%B3digo;Do+banco+de+dados+ao+app+no+celular;Ideia+no+papel+%E2%86%92+sistema+rodando;Python%2C+React+e+Docker+no+dia+a+dia" alt="Se é repetitivo, vira código"/>
 
-<sub>Impressora de PDV que não abre a gaveta, etiqueta de balança que ninguém acha, tablet que precisa ficar travado num app só: eu resolvo com código.</sub>
+<sub>Gosto de pegar um problema real, entender o processo e entregar uma ferramenta que as pessoas usam de verdade, do backend ao app Android.</sub>
 
 </div>
 
@@ -30,10 +30,10 @@
 <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/> <img src="https://img.shields.io/badge/Prisma-161b22?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/> <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/> <img src="https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
 </p>
 
-### 🖨️ Hardware de loja
+### 🔌 Integração com hardware
 
 <p>
-<img src="https://img.shields.io/badge/ESC%2FPOS-161b22?style=for-the-badge" alt="ESC/POS"/> <img src="https://img.shields.io/badge/Zebra%20ZPL-161b22?style=for-the-badge&logo=zebratechnologies&logoColor=white" alt="Zebra ZPL"/> <img src="https://img.shields.io/badge/Balan%C3%A7as%20e%20PDV-161b22?style=for-the-badge" alt="Balanças e PDV"/>
+<img src="https://img.shields.io/badge/ESC%2FPOS-161b22?style=for-the-badge" alt="ESC/POS"/> <img src="https://img.shields.io/badge/Zebra%20ZPL-161b22?style=for-the-badge&logo=zebratechnologies&logoColor=white" alt="Zebra ZPL"/> <img src="https://img.shields.io/badge/Serial%20%2F%20USB%20%2F%20TCP-161b22?style=for-the-badge" alt="Serial / USB / TCP"/>
 </p>
 
 ---
