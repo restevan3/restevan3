@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Robert Estevan" width="520"/>
+<img src="nome.svg" alt="Robert Estevan" width="520"/>
 
 **Desenvolvimento · Automação · Infraestrutura**
 
