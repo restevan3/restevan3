@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 669 205" width="669" height="205" role="img" aria-label="Robert Estevan">
-<g fill="none" stroke="#4ADE80" stroke-width="1.6" opacity="0.75">
+<style>.f{fill:#4ADE80}.o{fill:none;stroke:#4ADE80;stroke-width:1.6;opacity:.75}@media (prefers-color-scheme:light){.f{fill:#15803D}.o{stroke:#15803D}}</style>
+<g class="o">
 <rect x="57.0" y="9" width="61" height="13" rx="1.5"/>
 <rect x="153.0" y="9" width="77" height="13" rx="1.5"/>
 <rect x="249.0" y="9" width="61" height="13" rx="1.5"/>
@@ -90,7 +91,7 @@
 <rect x="585.0" y="185" width="13" height="13" rx="1.5"/>
 <rect x="649.0" y="185" width="13" height="13" rx="1.5"/>
 </g>
-<g fill="#4ADE80">
+<g class="f">
 <rect x="52.0" y="4" width="61" height="13" rx="1.5"/>
 <rect x="148.0" y="4" width="77" height="13" rx="1.5"/>
 <rect x="244.0" y="4" width="61" height="13" rx="1.5"/>
