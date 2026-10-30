@@ -4,7 +4,7 @@
 
 **Desenvolvimento · Automação · Infraestrutura**
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&height=40&duration=3200&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Se+%C3%A9+repetitivo%2C+vira+c%C3%B3digo;Do+banco+de+dados+ao+app+no+celular;Ideia+no+papel+%E2%86%92+sistema+rodando;Python%2C+React+e+Docker+no+dia+a+dia" alt="Se é repetitivo, vira código"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&height=40&duration=3200&pause=1000&color=804ADE&center=true&vCenter=true&width=600&lines=Se+%C3%A9+repetitivo%2C+vira+c%C3%B3digo;Do+banco+de+dados+ao+app+no+celular;Ideia+no+papel+%E2%86%92+sistema+rodando;Python%2C+React+e+Docker+no+dia+a+dia" alt="Se é repetitivo, vira código"/>
 
 <sub>Gosto de pegar um problema real, entender o processo e entregar uma ferramenta que as pessoas usam de verdade, do backend ao app Android.</sub>
 
