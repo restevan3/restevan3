@@ -35,12 +35,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/> <img src="https://img.shields.io/badge/Prisma-161b22?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/> <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/> <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/> <img src="https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
 </p>
 
-### 🔌 Integração com hardware
-
-<p>
-<img src="https://img.shields.io/badge/ESC%2FPOS-161b22?style=for-the-badge" alt="ESC/POS"/> <img src="https://img.shields.io/badge/Zebra%20ZPL-161b22?style=for-the-badge&logo=zebratechnologies&logoColor=white" alt="Zebra ZPL"/> <img src="https://img.shields.io/badge/Serial%20%2F%20USB%20%2F%20TCP-161b22?style=for-the-badge" alt="Serial / USB / TCP"/>
-</p>
-
 ---
 
 ### 🔧 Projetos
